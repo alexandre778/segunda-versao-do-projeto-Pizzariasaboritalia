@@ -13,8 +13,5 @@ Tecnologias
 •	Swing (GUI)
 •	JDBC
 •	Especialista
-Como executar
-git clone https://github.com/alexandre778/Pizzariasaboritalia.git
-cd Pizzariasaboritalia
-mvn clean install
+
 
